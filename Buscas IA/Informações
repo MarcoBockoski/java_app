@@ -1,0 +1,7 @@
+A BuscaIA correponde à buscas sem informação:
+
+Amplitude, Profundidade, Profundidade Limitada, Aprofundamento Iterativo e Bidirecional
+
+A Busca Local implementa as seguintes buscas:
+
+Têmpera Simulada (Simulated Annealing), Subida de Encosta (HillClimbing) e uma variante de HC.
